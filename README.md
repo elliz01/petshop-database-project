@@ -1,5 +1,5 @@
 # Projeto Banco de Dados PetShop
-Curso: [Introdução a Banco de Dados com MySQL](https://ticemtrilhas.org.br/trail/c564c173-c606-4819-8ef2-eb099557b357)
+Curso: [Introdução a Banco de Dados](https://ticemtrilhas.org.br/trail/c564c173-c606-4819-8ef2-eb099557b357)
 
 ## Descrição
 Este projeto foi desenvolvido como parte do curso "Introdução a Banco de Dados com MySQL". O objetivo é aplicar conceitos de bancos de dados relacionais utilizando MySQL, incluindo a criação de tabelas, inserção de dados e realização de consultas SQL.
